@@ -19,5 +19,8 @@
     "mythril_spawner_description": "Spawn a node that spews mythril ore",
 
     "adamantine_spawner": "Adamantine Spawner Node",
-    "adamantine_spawner_description": "Spawn a node that spews adamantine ore"
+    "adamantine_spawner_description": "Spawn a node that spews adamantine ore",
+    
+    "gems_spawner": "Gems Spawner Node",
+    "gems_spawner_description": "Spawn a node that spews Gems ore",
 }

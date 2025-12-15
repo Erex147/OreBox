@@ -1,0 +1,29 @@
+{
+    "OreBox_cz": "礦物盒OreBox",
+    "This mod adds various ore spawners!_cz": "添加了各種礦物的生成柱！",
+    
+    "orebox_tab_name": "礦物盒OreBox",
+    "orebox_tab_description": "礦物生成柱",
+    "orebox_auto_layout_window_title": "礦物窗口",
+
+    "metal_spawner": "金屬生成點",
+    "metal_spawner_description": "放置一個可以源源不斷產生普通金屬礦的柱子",
+
+    "gold_spawner": "黃金生成點",
+    "gold_spawner_description": "放置一個可以源源不斷產生黃金礦的柱子",
+
+    "stone_spawner": "石頭生成點",
+    "stone_spawner_description": "放置一個可以源源不斷產生石頭的柱子",
+
+    "silver_spawner": "銀生成點",
+    "silver_spawner_description": "放置一個可以源源不斷產生銀礦的柱子",
+
+    "mythril_spawner": "秘銀生成點",
+    "mythril_spawner_description": "放置一個可以源源不斷產生秘銀礦的柱子",
+
+    "adamantine_spawner": "精金生成點",
+    "adamantine_spawner_description": "放置一個可以源源不斷產生精金礦的柱子",
+    
+    "gems_spawner": "寶石生成點",
+    "gems_spawner_description": "放置一個可以源源不斷產生寶石礦的柱子",
+}
