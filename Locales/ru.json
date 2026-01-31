@@ -1,0 +1,23 @@
+{
+    "orebox_tab_name": "OreBox",
+    "orebox_tab_description": "Генераторы руды",
+    "orebox_auto_layout_window_title": "Окно авторазмещения",
+
+    "metal_spawner": "Генератор металла",
+    "metal_spawner_description": "Создаёт источник, который выпускает металлическую руду",
+
+    "gold_spawner": "Генератор золота",
+    "gold_spawner_description": "Создаёт источник, который выпускает золотую руду",
+
+    "stone_spawner": "Генератор камня",
+    "stone_spawner_description": "Создаёт источник, который выпускает камень",
+
+    "silver_spawner": "Генератор серебра",
+    "silver_spawner_description": "Создаёт источник, который выпускает серебряную руду",
+
+    "mythril_spawner": "Генератор мифрила",
+    "mythril_spawner_description": "Создаёт источник, который выпускает мифриловую руду",
+
+    "adamantine_spawner": "Генератор адамантия",
+    "adamantine_spawner_description": "Создаёт источник, который выпускает адамантивую руду"
+}
