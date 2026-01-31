@@ -9,5 +9,6 @@ internal static class OreBoxContent
     {
         OreBoxBuildings.Init();
         OreBoxGodPowers.Init();
+        OreBoxPatches.Init();
     }
 }
