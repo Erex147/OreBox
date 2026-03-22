@@ -1,4 +1,3 @@
-using OreBox.UI.Prefabs;
 using NeoModLoader.General;
 using NeoModLoader.General.UI.Window;
 using NeoModLoader.General.UI.Window.Utils.Extensions;
